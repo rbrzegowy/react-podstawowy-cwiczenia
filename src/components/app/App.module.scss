@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.card {
+  background-color: white;
+  padding: 30px 50px;
+  background-color: #fff;
+  box-shadow: var(--card-shadow);
+  margin: 20px;
+  border-radius: 8px;
+  width: clamp(400px, 80%, 1200px);
+  min-height: 400px;
+}

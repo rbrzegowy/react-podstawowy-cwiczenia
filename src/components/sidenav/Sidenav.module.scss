@@ -1,0 +1,35 @@
+.aside {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 100vh;
+  width: 260px;
+  background: white;
+  align-self: stretch;
+}
+
+.header {
+  color: #444;
+  padding: 20px 30px 20px 20px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  font-size: 1.4rem;
+  line-height: 1.5rem;
+
+  img {
+    width: 50px;
+  }
+
+  .subheader {
+    font-size: 1.2rem;
+  }
+}
+
+
+.nav {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
