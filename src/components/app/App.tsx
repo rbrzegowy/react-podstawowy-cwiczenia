@@ -1,4 +1,3 @@
-import Guitars from '../guitars/Guitars'
 import Sidenav from '../sidenav/Sidenav'
 import ValidHTML from '../valid-html/ValidHTML'
 import './App.scss'
@@ -11,7 +10,6 @@ function App() {
       <main className={s.main}>
         <div className={s.card}>
           <ValidHTML />
-          <Guitars />
         </div>
       </main>
     </>
