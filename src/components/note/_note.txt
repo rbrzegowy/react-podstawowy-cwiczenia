@@ -1,5 +1,4 @@
 
 <h3>{title}</h3>
 <div>{content}</div>
-<div>{created?.toLocaleString()}</div>
-<div>{JSON.stringify(tags)}</div>
+<div>{created}</div>
