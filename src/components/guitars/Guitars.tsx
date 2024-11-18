@@ -14,6 +14,7 @@ export default function Guitars() {
 
   // dane pobiermay z tablicy guitars - trzeba je przetworzyć (chcemy wszystkie gitary)
   // const data: string[] = guitars
+
   return (
     <>
       <h2>
