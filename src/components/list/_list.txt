@@ -1,0 +1,4 @@
+1. Stwórz komponent List.tsx którego zadaniem będzie render listy.
+2. Props: data: string[], type: 'unordered' | 'ordered' | 'definition'
+3. Dodaj obsługę zdarzenia kliknięcia w element listy. Wypisz w konsoli numer i treść wybranego elementu.
+4. Dodaj obsługę zdarzenia najechania myszą na element. Wypisz w konsoli numer i treść wybranego elementu.

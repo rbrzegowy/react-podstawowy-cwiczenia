@@ -4,7 +4,9 @@ import s from './Guitars.module.scss'
 export default function Guitars() {
   // Stwórz komponent List.tsx którego zadaniem będzie render listy.
   // Props: data: string[], type: 'unordered' | 'ordered' | 'definition'
-  //
+  // Dodaj obsługę zdarzenia kliknięcia w element listy. Wypisz w konsoli treść wybranego elementu.
+  // Dodaj obsługę zdarzenia najechania myszą na element. Wypisz w konsoli numer wybranego elementu.
+
   // Lista 'unordered': <ul class="list"><li>...</li></ul>
   // Lista 'ordered': <ol class="list"><li>...</li></ol>
   // Lista 'definition': <dl class="list"><dt>...</dt><dd>...</dd></dl>
