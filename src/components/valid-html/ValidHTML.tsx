@@ -11,6 +11,5 @@ export default function ValidHTML() {
       <button type="submit">Zaloguj</button>
     </div>
   */
-
   return <p></p>
 }
