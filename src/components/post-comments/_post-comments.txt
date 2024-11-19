@@ -1,0 +1,5 @@
+Utwórz komponent  PostComments.
+Pobierz dane z API: 
+https://jsonplaceholder.typicode.com/posts/1/comments
+Wykorzystaj komponent List by wyświetlić pobrane komentarz. 
+Term: name, Description: email i body
