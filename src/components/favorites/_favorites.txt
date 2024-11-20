@@ -1,0 +1,10 @@
+1. W komponencie Guitars dodaj opcję dodania gitary do "ulubionych"
+2. Dodaj nowy komponent Favorites (poza komponentem Guitars)
+3. Wyświetl w Favorites ulubione gitary (skorzystaj z komponentu List)
+4. Dodaj w Favorites możliwość usunięcia gitary z ulubionych
+
+UWAGA: 
+Logika działania ulubionych nie powinna zależeć od wzajemnego 
+położenia komponentów Guitar i Favorites (nie wiedzą o sobie)
+
+Użyj ContextProvider
